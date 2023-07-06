@@ -15,6 +15,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.p{
+  color: crimson;
+}
+
 p {
   color: rgb(85, 85, 85);
 }
